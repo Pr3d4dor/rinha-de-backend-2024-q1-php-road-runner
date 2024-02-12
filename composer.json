@@ -1,0 +1,14 @@
+{
+    "name": "bine/rinha-de-backend-2024-q1-php-road-runner",
+    "authors": [
+        {
+            "name": "Gianluca Bine",
+            "email": "gian_bine@hotmail.com"
+        }
+    ],
+    "require": {
+        "spiral/roadrunner-cli": "^2.6",
+        "nyholm/psr7": "^1.8",
+        "spiral/roadrunner-http": "^3.4"
+    }
+}
